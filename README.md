@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WalTa14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... app development
+- 🌱 I’m currently learning ... software engineering
+- 💞️ I’m looking to collaborate on ... learning code
 - 📫 How to reach me ... walteronderi@gmail.com
 
 <!---
